@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Malachi Imooh
+# 👋 Hi, I’m Malachi Imoh
 
 I’m currently a Master of Science in Business Analytics (MSBA) candidate at the College of William & Mary. I earned my undergraduate degree at W&M as well, majoring in Computational and Applied Mathematics and Statistics with a concentration in Biostatistics.
 
